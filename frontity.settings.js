@@ -45,7 +45,7 @@ const settings = {
       "name": "@frontity/wp-source",
       "state": {
         "source": {
-          "api": "2252.temp.domains/~wedootec/ggalati/orinoquia/backend/wp-json",
+          "api": "http://box2252.temp.domains/~wedootec/ggalati/orinoquia/backend/wp-json",
           "homepage": "/home",
           "params":{
             "per_page": 99
